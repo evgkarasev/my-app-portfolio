@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My app portfolio</string>
+    <string name="action_moreinfo">More	Information</string>
+    <string name="top_left">Spotify Streamer</string>
+    <string name="mid_left">Build it bigger</string>
+    <string name="bottom_left">Capstone project:\nMy own App</string>
+    <string name="top_right">Scores App</string>
+    <string name="mid_right">Library App</string>
+    <string name="bottom_right">XYZ\nReader</string>
+</resources>
